@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "lista": [
+    {
+      "id": 1,
+      "nombre": "Trastorno de ansiedad generalizada",
+      "codigo": "300.02 (F41.1)",
+      "categoria": "Trastornos de ansiedad"
+    },
+    {
+      "id": 2,
+      "nombre": "Otro trastorno",
+      "codigo": "123.45 (F99.9)",
+      "categoria": "Otra categoría"
+    }
+
+  ]
+}
